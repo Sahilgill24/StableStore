@@ -1,0 +1,5 @@
+/node_modules
+/.env
+/output.json
+/exchange2.ts
+/exchange3.ts
