@@ -23,7 +23,7 @@
 Welcome to StableStore, the all in one solution for stable coin checkouts in filecoin.
 Designed to streamline your operations and finances, StableStore offers a comprehensive suite of tools to manage your storage deals and monitor your performance.
 
-It also won the Filecoin storage deals track(1st place) as well as the Zondax track(2nd place)  </p>
+<h4>It also won the Filecoin storage deals track(1st place) as well as the Zondax track(2nd place)</h4>  </p>
     <a href="https://stablestore.gitbook.io/stablestore">View Docs</a>
     ·
     <a href="https://github.com/Sahilgill24/StableStore/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
