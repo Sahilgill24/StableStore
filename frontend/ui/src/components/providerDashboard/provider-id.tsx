@@ -44,10 +44,10 @@ export default function ProviderId(props: ProviderIdProps) {
           </AlertDescription>
         </Alert>
       ) : (
-        <Alert className="mt-4 bg-sky-500/10 font-semibold text-muted-foreground">
-          <LightbulbIcon className="w-4 h-4" />
+        <Alert className="mt-4 bg-green-500/60 border-green-50/20  font-semibold text-accent-foreground">
+          <LightbulbIcon className="h-4 w-4" />
           <AlertDescription>
-            Provider is not mutable if you want to change please sign up again!
+            Provider ID has been set successfully
           </AlertDescription>
         </Alert>
       )}
