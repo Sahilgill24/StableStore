@@ -15,16 +15,16 @@
     <img src="frontend/ui/src/assets/logo.svg" alt="Logo" width="100" height="100">
   </a>
 
-<h3 align="center">StableStore</h3>
+<h1 align="center">StableStore</h1>
 
-
+<h3>It also won the Filecoin storage deals track(1st place) as well as the Zondax track(2nd place)
+</br> <a href="https://ethglobal.com/showcase/stablestore-ah8sy">Check here</a></h3> 
 
   <p align="center" style="width:76ch;">
 Welcome to StableStore, the all in one solution for stable coin checkouts in filecoin.
 Designed to streamline your operations and finances, StableStore offers a comprehensive suite of tools to manage your storage deals and monitor your performance.
 
-<h4>It also won the Filecoin storage deals track(1st place) as well as the Zondax track(2nd place)
-</br> <a href="https://ethglobal.com/showcase/stablestore-ah8sy">Check here</a></h4>  </p>
+ </p>
     <a href="https://stablestore.gitbook.io/stablestore">View Docs</a>
     ·
     <a href="https://github.com/Sahilgill24/StableStore/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
