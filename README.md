@@ -17,7 +17,7 @@
 
 <h1 align="center">StableStore</h1>
 
-<h3>It also won the Filecoin storage deals track(1st place) as well as the Zondax track(2nd place)
+<h3> This won the Filecoin storage deals track(1st place) as well as the Zondax track(2nd place) in HACKFS 2024
 </br> <a href="https://ethglobal.com/showcase/stablestore-ah8sy">Check here</a></h3> 
 
   <p align="center" style="width:76ch;">
